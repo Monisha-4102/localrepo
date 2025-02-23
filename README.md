@@ -1,1 +1,1 @@
-# This is my first local repo! yes!
+# This is my first local repo!
